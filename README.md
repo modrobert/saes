@@ -34,7 +34,7 @@ saes v0.96 by modrobert in 2017
 Function: AES decrypt cipher from offsets within files.
 Syntax  : saes -a &lt;key size bits&gt; -b &lt;block mode&gt; -c &lt;cipher file&gt; [-h]
           [-i &lt;iv file&gt;] -k &lt;key file&gt; [-l &lt;cbc/ctr length *&gt;] -o &lt;output file&gt;
-          [-q] [-s &lt;iv offset *&gt;] -t &lt;key offset *&gt; [-u <cipher offset *>]
+          [-q] [-s &lt;iv offset *&gt;] -t &lt;key offset *&gt; [-u &lt;cipher offset *&gt;]
           [-v &lt;ctr counter *&gt;]
 Options : -a can be 128, 192 or 256 bits in length
           -b can be 'ECB', 'CBC' and 'CTR'
