@@ -81,7 +81,7 @@ int main(int argc, char *argv[])
  int kflag = 0; /* key file */
  int lflag = 0; /* buffer size */
  int oflag = 0; /* output file */
- int qflag = 0; /* quit flag */
+ int qflag = 0; /* quiet flag */
  int sflag = 0; /* IV offset */
  int tflag = 0; /* key offset */
  int uflag = 0; /* cipher offset */ 
