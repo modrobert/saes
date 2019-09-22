@@ -2,7 +2,7 @@
 
 ## Decrypt AES cipher using keys and data from offsets within files.
 
-### Copyright (C) 2017  Robert V. <modrobert@gmail.com>
+### Copyright (C) 2017  Robert V. &lt;modrobert@gmail.com&gt;
 ### Software licensed under GPLv2.
 
 ---
@@ -50,6 +50,6 @@ Result  : 0 = ok, 1 = read error, 2 = write error, 3 = arg error,
 
 ### Build
 
-Compile with:  
+Use included Makefile or Compile with:  
 gcc -O2 -Wpedantic saes.c aes.c -o saes
 
