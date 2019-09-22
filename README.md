@@ -50,6 +50,6 @@ Result  : 0 = ok, 1 = read error, 2 = write error, 3 = arg error,
 
 ### Build
 
-Use included Makefile or Compile with:  
+Use included Makefile or compile with:  
 gcc -O2 -Wpedantic saes.c aes.c -o saes
 
