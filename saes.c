@@ -1,5 +1,5 @@
 /* 
- saes - AES decrypt cipher from offsets within in files.   
+ saes - AES decrypt cipher from offsets within files.
  Copyright (C) 2017  Robert V. <modrobert@gmail.com>
 
  This program is free software; you can redistribute it and/or
